@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 void hi(){
-cout<<"hello and hi"<<endl;
+cout<<"hello & hi"<<endl;
 }
 int main (){
 hi();
