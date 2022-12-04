@@ -1,0 +1,10 @@
+// this is my first program i c++
+#include<iostream>
+using namespace std;
+void hi(){
+cout<<"hello and hi"<<endl;
+}
+int main (){
+hi();
+return 0;
+}
